@@ -2,4 +2,4 @@
 - 🤖 AI agent systems builder focused on architecture, orchestration, and product demos
 - 🌱 Currently learning distributed agent architectures, LLM evaluation, and production AI systems
 - 💞️ Open to collaborating on AI products, multi-agent workflows, and automation tools
-- 📫 Reach me at: lewenbach228@gmail.com
+- 📫 Reach me at: agbonagbanablamvi@gmail.com
